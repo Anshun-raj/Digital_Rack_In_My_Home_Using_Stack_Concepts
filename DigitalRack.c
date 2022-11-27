@@ -3,7 +3,6 @@
 #include <stdio.h>
 #include <conio.h>
 #include <string.h>
-#include <stdlib.h>
 #define RACK 10
 
 int a[RACK],top=-1,count=0;
