@@ -1,4 +1,4 @@
-//Digital Rack in my home with digital camera that finds the total no. of books currently available in the rack and the book which is at the top in the rack
+//Digital Rack in my home with digital camera that finds the total no. of books currently available in the Rack and the book which is at the top in the Rack
 
 #include <stdio.h>
 #include <conio.h>
