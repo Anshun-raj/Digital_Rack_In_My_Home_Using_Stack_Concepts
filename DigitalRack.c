@@ -18,7 +18,7 @@ void get();
 void show();
 int main()
 {
-    printf("There is Rack in my home in which 10 books are horizontally placed\n");
+    printf("There is Rack in my home which can store 10 books horizontally\n");
     printf("These Books are placed in the Rack with some code pasted in each book for identification purpose some details related to it are:-");
     printf("\n\nMathematics=101,Physics=103,Chemistry=105,Biology=106,History=108,Geography=109,Civics=104,ComputerScience=102,Hindi=107,English=110\n\n");
 
