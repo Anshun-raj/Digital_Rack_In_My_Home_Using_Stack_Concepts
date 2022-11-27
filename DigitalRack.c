@@ -142,7 +142,7 @@ void show()
 
     if(top>=0)
     {
-        printf("Books in the Rack are:");
+        printf("Books in the Rack with code name are:");
         for(i=top; i>=0; i--)
         {
             count=count+1;
